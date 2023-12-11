@@ -1,0 +1,4 @@
+streamlit==0.89.0
+opencv-python==4.5.3.56
+tensorflow
+Pillow == 10.1.0
